@@ -1,7 +1,5 @@
-### Hi there 👋
+Olá 👋, me chamo Caio Marinho, bem vindo ao meu repositorio!
 
-<!--
-**CaioMarinho2/CaioMarinho2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
