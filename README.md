@@ -35,3 +35,5 @@
  <a href = "mailto:caiomarinhoreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=+55+21991807396&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20GitHub%20%2C%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+ ![Snake animation](https://github.com/CaioMarinho2/CaioMarinho2/blob/output/github-contribution-grid-snake.svg)
