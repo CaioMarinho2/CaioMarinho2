@@ -1,5 +1,13 @@
-Olá 👋, me chamo Caio Marinho, bem vindo ao meu repositorio!
-##
+<div align="center">
+Olá 👋, me chamo Caio Marinho, bem vindo ao meu GitHub!
+
+</div>
+  <br/>
+
+<div align="center">
+  <img  alt="view-pic" height="290" width="62%" style="border-radius:50px;" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
+</div>
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,10 +31,16 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/CaioMarinho2">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=CaioMarinho2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,issues"/>
-  <img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMarinho2&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="54%" src="https://github-readme-stats.vercel.app/api?username=CaioMarinho2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,issues">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMarinho2&layout=compact&langs_count=7&theme=tokyonight">
+    </a>
 </div>
+  
+  ##
+Redes Sociais 
 <div align="center"> 
+  
+  
    <a href="https://www.linkedin.com/in/caio-marinho-dos-reis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:caiomarinhoreis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=+55+21991807396&text=Ol%C3%A1%2C%20venho%20por%20meio%20do%20seu%20GitHub%20%2C%20gostaria%20de%20conhecer%20melhor%20seus%20servi%C3%A7os"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
