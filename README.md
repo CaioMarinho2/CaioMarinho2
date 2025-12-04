@@ -6,7 +6,7 @@
 
   <div align="center">
 <h3>Quem sou eu :</h3>
-  <p>Tenho 21 anos, moro no Rio de Janeiro sou um desenvolvedor Full Stack em formação e conheci a área da programação na Kenzie academy Brasil após o fim do ensino médio, atualmente cursando sistemas de informação na UFRRJ 💻!  </p>
+  <p>Tenho 22 anos, moro no Rio de Janeiro sou um desenvolvedor Full Stack em formação e conheci a área da programação na Kenzie academy Brasil após o fim do ensino médio, atualmente cursando sistemas de informação na UFRRJ 💻!  </p>
 </div>
 
 ##
